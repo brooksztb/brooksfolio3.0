@@ -6,7 +6,7 @@
   <div>
     <div class="[ layout-wrapper ] [ transition-colors-300 ]">
       <the-navigation></the-navigation>
-      <nuxt keep-alive />
+      <slot keep-alive />
     </div>
     <the-footer></the-footer>
   </div>

@@ -7,7 +7,7 @@
       <the-navigation></the-navigation>
       <div class="main-content-container">
         <main id="content" class="[ main-content ] [ wrapper ]">
-          <nuxt keep-alive />
+          <slot keep-alive />
         </main>
       </div>
     </div>
