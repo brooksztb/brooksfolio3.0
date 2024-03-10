@@ -1,3 +1,6 @@
+<script setup lang="ts">
+  
+</script>
 <template>
   <div>
     <div class="[ layout-wrapper ] [ transition-colors-300 ]">
@@ -12,7 +15,5 @@
   </div>
 </template>
 
-<script>
-export default {}
-</script>
+
 <style scoped></style>

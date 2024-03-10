@@ -1,3 +1,6 @@
+<script setup lang="ts">
+  
+</script>
 <template>
   <div>
     <div class="main-content-container">
@@ -11,7 +14,7 @@
   </div>
 </template>
 
-<script>
+<!-- <script>
 export default {
   props: ['error'],
   computed: {
@@ -22,7 +25,7 @@ export default {
     },
   },
 }
-</script>
+</script> -->
 
 <style scoped>
 .error {
